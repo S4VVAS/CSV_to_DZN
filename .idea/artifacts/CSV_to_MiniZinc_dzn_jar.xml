@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSV_to_MiniZinc_dzn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSV_to_MiniZinc_dzn_jar</output-path>
+    <root id="archive" name="CSV_to_MiniZinc_dzn.jar">
+      <element id="module-output" name="CSV_to_MiniZinc_dzn" />
+    </root>
+  </artifact>
+</component>
